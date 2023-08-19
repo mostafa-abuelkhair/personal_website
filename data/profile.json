@@ -1,0 +1,10 @@
+{
+    "firstName": "john",
+    "lastName":  "due",
+    "avatar": "imgs/avatar.jpg",
+    "bio":"Adventurous soul 🌍 | Curious mind 📚 | Creative spirit ✨ | Embracing life's journey one step at a time. Exploring the world, both physically and mentally. Lover of stories, whether written, spoken, or lived. Believer in the power of human connection and the magic of meaningful conversations. Captivated by the intersection of art, science, and philosophy. Striving for personal growth and a positive impact on the world. Join me as we navigate the tapestry of existence together.",
+    "email":"john.due@gmail.com",
+    "place":"london - un united states - mars",
+    "age": "120",
+    "jop": "software engineer"
+}

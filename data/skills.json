@@ -1,0 +1,43 @@
+[
+    {
+        "name": "html",
+        "level" : "5" 
+    },
+    {
+        "name": "css",
+        "level" : "5" 
+    },
+    {
+        "name": "javascript",
+        "level" : "5" 
+    },
+    {
+        "name": "angular",
+        "level" : "4" 
+    },
+    {
+        "name": "nodeJs",
+        "level" : "5" 
+    },
+    {
+        "name": "php",
+        "level" : "4" 
+    },
+    {
+        "name": "react",
+        "level" : "4" 
+    },
+    {
+        "name": "sql",
+        "level" : "3" 
+    },
+
+    {
+        "name": "mongoDB",
+        "level" : "5" 
+    },
+    {
+        "name": "c++",
+        "level" : "3" 
+    }
+]
