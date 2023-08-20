@@ -54,8 +54,10 @@ fclose($myfile);
                             echo "<i class=\"fa-regular fa-star\"></i>";
                         }
                     }
+                    
+                    echo "</div>";
                 }
-
+                
             ?>
 
             </article>
