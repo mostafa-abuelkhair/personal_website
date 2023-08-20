@@ -1,0 +1,33 @@
+html,body{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    --sky : #08D9D6;
+    --black : #252A34;
+    --red : #FF2E63;
+    --white : #EAEAEA;
+    background-color: #252A34;
+    min-height: 100%;
+    color: #EAEAEA;
+}
+
+.skills{
+    padding-left: 10%;
+    font-size: 25px;
+}
+
+.skills h1{
+    color: var(--red);
+    letter-spacing: 7px;
+    margin-bottom: 60px;
+}
+
+.skills span{
+    display: inline-block;
+    width: 30%;
+    margin: 25px;
+}
+.skills i{
+    margin: 10px;
+    color: var(--sky);
+}
